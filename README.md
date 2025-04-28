@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raslenfr" alt="raslenfr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/raslenferchichi" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/raslenferchichi?logo=twitter&style=for-the-badge" alt="https://x.com/raslenferchichi" /></a> </p>
-
+<p align="left"> <a href="https://x.com/raslenferchichi" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/raslenferchichi?logo=twitter&style=for-the-badge" alt="https://x.com/raslenferchichi" /></a> </p>
+https://x.com/RaslenFerchichi
 - 👯 I’m looking to collaborate on **spring boot project**
-
+https://x.com/RaslenFerchichi
 - 📫 How to reach me **https://www.linkedin.com/in/raslen-ferchihi/**
-
+https://x.com/RaslenFerchichi
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
