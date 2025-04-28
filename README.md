@@ -8,13 +8,29 @@
 - 👯 I’m looking to collaborate on **spring boot project**  
 - 📫 How to reach me:
 <p align="left">
-<a href="https://www.linkedin.com/in/raslen-ferchihi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raslen-ferchihi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/raslenferchihi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raslenferchihi" height="30" width="40" /></a>
-<a href="https://instagram.com/raslen_ferchichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raslen_ferchichi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@raslenferchihi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@raslenferchihi" height="30" width="40" /></a>
- **[Twitter/X](https://x.com/RaslenFerchichi)**
-  <!-- Discord link removed as it was invalid -->
+  
+  <a href="https://www.linkedin.com/in/raslen-ferchihi/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raslen-ferchihi" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.facebook.com/raslenferchihi/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raslenferchihi" height="30" width="40" />
+  </a>
+  
+  <a href="https://instagram.com/raslen_ferchichi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raslen_ferchichi" height="30" width="40" />
+  </a>
+  
+   <a href="https://x.com/RaslenFerchichi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raslenferchichi" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.youtube.com/@raslenferchihi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@raslenferchihi" height="30" width="40" />
+  </a>
+
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
