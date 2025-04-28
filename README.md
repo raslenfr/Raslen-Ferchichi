@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Raslen Ferchichi 😊</h1>
 <h3 align="center">A passionate fullstack Software developer from Tunisia</h3>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raslenfr&label=Profile%20views&color=0e75b6&style=flat" alt="raslenfr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raslenfr" alt="raslenfr" /></a> </p>
