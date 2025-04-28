@@ -6,19 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raslenfr" alt="raslenfr" /></a> </p>
 
 - 👯 I’m looking to collaborate on **spring boot project**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/raslen-ferchihi/)** | **[Twitter/X](https://x.com/RaslenFerchichi)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Contact me on :</h3>
+- 📫 How to reach me:
 <p align="left">
 <a href="https://www.linkedin.com/in/raslen-ferchihi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raslen-ferchihi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/raslenferchihi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raslenferchihi" height="30" width="40" /></a>
 <a href="https://instagram.com/raslen_ferchichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raslen_ferchichi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@raslenferchihi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@raslenferchihi" height="30" width="40" /></a>
-<!-- Discord link removed as it was invalid -->
+ **[Twitter/X](https://x.com/RaslenFerchichi)**
+  <!-- Discord link removed as it was invalid -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
