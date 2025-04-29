@@ -80,11 +80,15 @@
   <img src="https://streak-stats.demolab.com?user=raslenfr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="raslenfr's streak graph" style="margin-right: 10px;" />
   
   <br clear="both">
-
-<img src="https://raw.githubusercontent.com/raslenfr/raslenfr/output/snake.svg" alt="Snake animation" />
-
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raslenfr&layout=compact&theme=dark&hide_border=false" height="200" alt="raslenfr's top languages" style="margin-right: 10px;" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=raslenfr&show_icons=true&locale=en&theme=dark&hide_border=false" height="200" alt="raslenfr's github stats" />
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
